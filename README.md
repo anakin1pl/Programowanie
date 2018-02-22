@@ -1,2 +1,2 @@
 # Programowanie
-zadania w C
+zadania w C/c++
